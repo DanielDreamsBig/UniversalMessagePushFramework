@@ -1,0 +1,16 @@
+[MsgAPP]
+host = 0.0.0.0
+port = 39456
+debug = True
+
+[MsgEMail]
+smtp_sever = smtp.office365.com
+smtp_port = 587
+login_addr = admin@microsoft.com
+from_addr = admin@microsoft.com
+to_addr = admin@microsoft.com
+password = M1cr050ft_p@55w0rd
+
+[MsgDingtalk]
+access_token = acc
+secret = sec
